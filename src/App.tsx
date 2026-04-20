@@ -116,7 +116,7 @@ const quizData = [
               { id: "C", text: "after" },
               { id: "D", text: "to" },
             ],
-            correct: "B",
+            correct: "C",
           },
           {
             id: 8,
