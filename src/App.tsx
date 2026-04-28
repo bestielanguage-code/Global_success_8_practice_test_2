@@ -286,7 +286,7 @@ const quizData = [
         instruction:
           "1. Read the passage and choose the best answer A, B, C or D.",
         passage:
-          "Before you travel to the US, you (21) ___ not (22) ___ to get a visa, but there are different rules for (23) ___ nationalities. (24) ___ example, you don't need to show that you have enough money (25) ___ you. (26) ___ there is one rule you can be sure about: everyone (27) ___ to show their passport.\n\nThe roads in New York are very busy, but don't worry you can get around cheaply and easily by subway. Remember that you are not allowed to smoke (28) ___ public transport or in shops. And don't forget that you must tip taxi drivers and waiters. New York is not the most dangerous city in the US, but you really (29) ___ walk along empty streets at night. And it is (30) ___ to travel around in groups.",
+          "Before you travel to the US, you (21)_________ find out what documents you need. British people do not (22)_______ to get a visa, but there are different rules for (23) __________ nationalities. (24)_______ example, you don’t need to show that you have enough money (25)_______you. (26)_______ there is one rule you can be sure about: everyone (27)_______ to show their passport.\n\nThe roads in New York are very busy, but don't worry you can get around cheaply and easily by subway. Remember that you are not allowed to smoke (28) ___ public transport or in shops. And don't forget that you must tip taxi drivers and waiters. New York is not the most dangerous city in the US, but you really (29) ___ walk along empty streets at night. And it is (30) ___ to travel around in groups.",
         questions: [
           {
             id: 21,
